@@ -6,3 +6,8 @@ All is good
 1. All
 2. is
 3. Good
+
+# doings
+Wake 
+Eat
+Sleep
